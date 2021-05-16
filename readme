@@ -1,0 +1,19 @@
+[EN] inside your server.cfg
+add
+
+ensure GAYA_mecanojob -- for job
+
+-- for Mapping
+ensure bennylift
+ensure bigbenny
+ensure bigbennyblackwhite
+
+[FR] dans votre server.cfg
+ajouter
+
+ensure GAYA_mecanojob -- pour le job
+
+-- pour le Mapping
+ensure bennylift
+ensure bigbenny
+ensure bigbennyblackwhite
